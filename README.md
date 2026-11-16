@@ -52,4 +52,4 @@ These are areas of exploration, not fixed boundaries.
 
 ---
 
-*Curiosity opens the question. Research tests it. Thinking gives it meaning.*
+*Curiosity opens the question. Research tests it.
